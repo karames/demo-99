@@ -10,3 +10,5 @@ En este curso aprenderemos muchas cosas
 - Trabajo con ramas
 - Punto nuevo
 - Cambios desde feature/equipos
+- Nuevos cambios
+- Otro cambio esta vez desde feature/readme

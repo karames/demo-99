@@ -12,3 +12,4 @@ En este curso aprenderemos muchas cosas
 - Cambios desde feature/equipos
 - Nuevos cambios
 - Otro cambio esta vez desde feature/readme
+- Cambio desde rama-readme

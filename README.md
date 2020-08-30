@@ -8,3 +8,4 @@ En este curso aprenderemos muchas cosas
 - Trabajo colaborativo
 - Nuevos cambios
 - Trabajo con ramas
+- Punto nuevo

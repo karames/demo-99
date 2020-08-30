@@ -8,3 +8,6 @@ body {
   background-color: bisque;
   color: #222;
 }
+p {
+  font-size: 12px;
+}

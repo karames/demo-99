@@ -9,3 +9,4 @@ En este curso aprenderemos muchas cosas
 - Nuevos cambios
 - Trabajo con ramas
 - Punto nuevo
+- Cambios desde feature/equipos

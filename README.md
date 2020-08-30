@@ -2,4 +2,7 @@
 
 Bienvenido al curso
 En este curso aprenderemos muchas cosas
-Otra linea más
+
+- Otra linea más
+- Hemos incluido a Batman
+- Trabajo colaborativo
